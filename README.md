@@ -1,1 +1,7 @@
-# Pemrograman-mobile-2024
+# Pemrograman Mobile 2024
+
+Nama: …
+NIM: …
+Prodi: Pendidikan Teknologi Informasi
+
+Repository ini berisi pengumpulan tugas praktikum mata kuliah Pemrograman Mobile.
